@@ -17,7 +17,7 @@ body {
 
 .header_list
 {
-    float:right;
+    /*float:right;*/
     font-size: medium;
     display: inline-block;
     margin-left: 25px;
